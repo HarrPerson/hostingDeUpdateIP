@@ -62,4 +62,4 @@ The example shows only the mandatory elements. A full example can be printed wit
 
 The array `Domains` holds the domain, named `Host` and the sub domains as array, named `Subs`. `SetHostToo` define if the domain also should be updated or only the sub domains. `Host` is necessary to identify the Zone of the sub domains.
 
-`Ipv6Postfix` holds the IPv6 postfix. You _ISP_ delegates a IPv6 prefix to your router which often changes after router or modem reboot. A _static_ IPv6 address can be assigned to an interface via _IPv6 DHCP_ service. Most routers allow the assignment of an IPv6 postfix.
+`Ipv6Postfix` holds the IPv6 postfix. Your _ISP_ delegates a IPv6 prefix to your router which often changes after router or modem reboot. A _static_ IPv6 address can be assigned to an interface via _IPv6 DHCP_ service. Most routers allow the assignment of an IPv6 postfix.
