@@ -28,7 +28,7 @@ The example shows only mandatory elements. A full example can be printed with
 {
    "HostingDe": {
       "Api": {
-         "AuthToken": "NOT-KEY-SET"
+         "AuthToken": "NO-KEY-SET"
       }
    },
    "Domains": [
